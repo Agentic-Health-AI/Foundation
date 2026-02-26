@@ -21,3 +21,15 @@ For each lab value provided:
 
 Do not hallucinate citations. If you cannot find evidence of an "optimal" range differing from the standard range, explicitly state that the standard range appears robust.
 ```
+
+## Prompt Libraries & Engineering Resources
+
+- **[Prompts for Health](https://github.com/FortaTech/prompts-for-health)**: Ready-to-use collection of prompts for healthcare professionals using generative AI, organized by use case.
+
+- **[AutoMedPrompt](https://arxiv.org/abs/2502.15944)**: Framework for optimizing medical LLM prompts using textual gradients, achieving state-of-the-art on PubMedQA (82.6%).
+
+- **[CliniPrompt](https://cliniprompt.medicine.wisc.edu/)**: User-friendly prompt engineering and library software designed for clinical settings, from the University of Wisconsin.
+
+- **[Microsoft Promptbase](https://github.com/microsoft/promptbase)**: Microsoft's open-source prompt engineering toolkit including the Medprompt methodology for medical benchmark performance.
+
+- **[Prompt Engineering in Clinical Practice (JMIR)](https://pmc.ncbi.nlm.nih.gov/articles/PMC12439060/)**: Peer-reviewed tutorial covering zero-shot, few-shot, chain-of-thought, and meta-prompting techniques for clinicians.
