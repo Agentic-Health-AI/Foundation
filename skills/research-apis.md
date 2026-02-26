@@ -1,3 +1,8 @@
+---
+name: research-apis
+description: Lists research literature APIs and tools. Use when searching biomedical literature, accessing preprints, or building research pipelines.
+---
+
 # Research & Literature APIs
 
 APIs and tools for searching and retrieving biomedical research literature.

@@ -1,3 +1,8 @@
+---
+name: clinical-data-apis
+description: Lists clinical data APIs including FHIR servers, OMOP tools, and EHR interoperability platforms. Use when integrating with clinical systems or health data standards.
+---
+
 # Clinical Data APIs
 
 FHIR servers, OMOP tools, and clinical data interoperability APIs.

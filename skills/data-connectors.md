@@ -1,3 +1,8 @@
+---
+name: data-connectors
+description: Lists data connector scripts and tools. Use when extracting health data from portals, wearable devices, or health apps like Apple Health, Garmin, or Sundhed.dk.
+---
+
 # Data Connectors
 
 Scripts and tools for extracting health data from portals, devices, and wearables.

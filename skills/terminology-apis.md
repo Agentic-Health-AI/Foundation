@@ -1,3 +1,8 @@
+---
+name: terminology-apis
+description: Lists medical terminology and ontology APIs. Use when mapping clinical concepts, standardizing disease codes, or working with SNOMED CT, ICD, or MeSH vocabularies.
+---
+
 # Medical Terminology & Ontology APIs
 
 APIs for standardized medical vocabularies, disease classifications, and concept mapping.

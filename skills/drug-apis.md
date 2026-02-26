@@ -1,3 +1,8 @@
+---
+name: drug-apis
+description: Lists drug and pharmacology APIs. Use when looking up drug information, interactions, adverse events, or pharmacogenomics data.
+---
+
 # Drug & Pharmacology APIs
 
 APIs and databases for drug information, interactions, and pharmacogenomics.

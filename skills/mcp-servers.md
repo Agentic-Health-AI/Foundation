@@ -1,3 +1,8 @@
+---
+name: mcp-servers
+description: Lists MCP servers for health data access. Use when setting up health-related MCP integrations or looking for health data sources to connect to AI agents.
+---
+
 # MCP Servers for Health
 
 Model Context Protocol servers that give AI agents access to health data and clinical tools.

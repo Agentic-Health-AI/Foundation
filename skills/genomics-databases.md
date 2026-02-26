@@ -1,3 +1,8 @@
+---
+name: genomics-databases
+description: Lists genomics and variant databases. Use when looking up genetic variants, gene annotations, polygenic risk scores, or protein data.
+---
+
 # Genomics & Variant Databases
 
 APIs and databases for genomic variants, gene annotations, and protein data.
